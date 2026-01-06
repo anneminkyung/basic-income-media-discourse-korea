@@ -37,13 +37,18 @@ These programs share key characteristics with UBI, such as unconditional or broa
 ```
 
 .
-├── data/                # Raw and processed data (if included)
-├── notebooks/           # Jupyter notebooks for analysis
-│   └── analysis.ipynb
-├── scripts/             # Supporting scripts (if applicable)
-├── figures/             # Output figures and visualizations
-├── requirements.txt     # Python dependencies
-└── README.md            # Project documentation
+├── README.md                             # Project overview and documentation
+├── LICENSE                               # License file
+│
+├── data_2022.csv                         # Media data for 2022
+├── data_2023.csv                         # Media data for 2023
+├── data_2024.csv                         # Media data for 2024
+├── data_2025.csv                         # Media data for 2025
+│
+├── ubi_media_discourse_korea.ipynb       # Main analysis notebook
+├── web_scraping.py                       # Script for collecting media articles
+│
+└── ubi_media_discourse_korea_report.pdf  # Final written report
 
 ````
 
