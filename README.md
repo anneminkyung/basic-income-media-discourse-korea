@@ -1,4 +1,4 @@
-# Media Discourse on UBI-Related Cash Transfer Policies in South Korea
+# Media Discourse on UBI-Related Cash Transfer Policies in South Korea (2022-2025)
 
 ## Overview
 
@@ -34,7 +34,7 @@ The project focuses on how media framing and sentiment surrounding UBI-like poli
 ## Requirements
 
 * Python 3.xx
-* Common libraries used in text analysis (e.g., pandas, numpy, scikit-learn, matplotlib, nltk / transformers)
+* Common libraries used in text analysis (e.g., pandas, numpy, scikit-learn, matplotlib, nltk)
 
 ## Author
 
