@@ -16,8 +16,8 @@ The project focuses on how media framing and sentiment surrounding UBI-like poli
 ````
 
 .
-├── README.md                             # Project overview and documentation
 ├── LICENSE                               # License file
+├── README.md                             # Project overview and documentation
 │
 ├── data_2022.csv                         # Media data for 2022
 ├── data_2023.csv                         # Media data for 2023
@@ -25,9 +25,8 @@ The project focuses on how media framing and sentiment surrounding UBI-like poli
 ├── data_2025.csv                         # Media data for 2025
 │
 ├── ubi_media_discourse_korea.ipynb       # Main analysis notebook
-├── web_scraping.py                       # Script for collecting media articles
-│
-└── ubi_media_discourse_korea_report.pdf  # Final written report
+├── ubi_media_discourse_korea_report.pdf  # Final written report
+└── web_scraping.py                       # Script for collecting media articles
 
 ````
 
